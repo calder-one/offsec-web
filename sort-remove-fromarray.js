@@ -5,3 +5,5 @@ function removeindexed(array1, num1, string1){
     console.log(step1)
 }
 removeindexed(["this", "is", "a", "test"], 3, "last")
+
+//output: [ 'a', 'is', 'test', 'last' ]
